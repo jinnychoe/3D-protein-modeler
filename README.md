@@ -16,8 +16,8 @@ Prerequisites:
 
 Before running the script, ensure you have the following prerequisites:
 
-Python 3.x 
-Required Python packages (requests, io, gzip, subprocess) 
+Python 3.x,
+Required Python packages (requests, io, gzip, subprocess),
 Pymol 
 
 Usage
